@@ -53,11 +53,14 @@ img:hover {
 }
 
 button {
-  background-color: #a3b763;
+  background-color: #49a6b3;
   border: none;
-  padding: 5px;
+  padding: 8px 10px;
   border-radius: 5px;
-  color: white;
+  color: black;
+  font-size:small;
+  text-transform: uppercase;
+  font-weight: bold;
   cursor: pointer;
 }
 
